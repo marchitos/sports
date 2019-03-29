@@ -15,10 +15,19 @@
       "tags": []
     },
     "material": {
-      "tags": ["lib material"]
+      "tags": [
+        "lib material"
+      ]
     },
     "soccer": {
-      "tags": ["lib soccer"]
+      "tags": [
+        "lib soccer"
+      ]
+    },
+    "api": {
+      "tags": [
+        "api"
+      ]
     }
   }
 }
